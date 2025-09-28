@@ -1,7 +1,7 @@
 ## Olá, eu sou o João! 👋
 #### Seja bem-vindo!
 
-👩🏻‍💻Formado em odontologia, em 2022 iniciei minha transição de carreira para o TI. Atualmente buscando por uma oportunidade de trabalho. <br>
+👩🏻‍💻Formado em odontologia, em 2022 iniciei minha transição de carreira para o TI. Busco por uma oportunidade de trabalho. <br>
 🤖Completamente apaixonado por tecnologia, gosto de aprender, resolver problemas e transformar ideias em realidade.
 
 #### Importante lembrar que...
